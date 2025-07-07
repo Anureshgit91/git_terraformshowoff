@@ -6,3 +6,12 @@
 # output "server_id" {
 #   value = data.azurerm_mssql_server.datasql.id
 # }
+
+
+# data "azurerm_mssql_server" "datasql" {
+#   name                = var.name
+#   resource_group_name = var. 
+
+# output "server_id" {
+#   value = data.azurerm_m rver.datasql.id
+# }
