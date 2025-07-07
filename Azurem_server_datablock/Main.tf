@@ -8,8 +8,6 @@
 # }
 
 
-ye line nicha wala add kar raha hai
-
 # data "azurerm_mssql_server" "datasql" {
 #   name                = var.name
 #   resource_group_name = var. 
